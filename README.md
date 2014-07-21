@@ -12,7 +12,7 @@ Find out how Famo.us works, and learn about Famo.us render trees.
 
 Discover the inspiration behind Famo.us and the vision for its future in an interview that I conducted with Steve Newcomb, CEO and co-founder of Famo.us.
 
-![Interview with Steve Newcomb, CEO and co-founder of Famo.us](http://www.ibm.com/developerworks/library/wa-famous/sidefile-interview.html)
+Read [Interview with Steve Newcomb, CEO and co-founder of Famo.us](http://www.ibm.com/developerworks/library/wa-famous/sidefile-interview.html)
 
 This code may be updated periodically.   Download the most current code distribution zip [from here]().
 
