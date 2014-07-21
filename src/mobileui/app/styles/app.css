@@ -1,0 +1,91 @@
+html {
+  background: #fff;
+}
+
+.backfaceVisibility {
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+.mobile-safari-fix {
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.article-cell {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 12pt;
+  border-bottom: gray solid 1px;
+  padding: 5px 10px;
+}
+.video-cell {
+  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;      /* TWEENER - IE 10 */
+  display: -webkit-flex;     /* NEW - Chrome */
+  display: flex;
+  -webkit-flex-flow: row;
+           flex-flow: row;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 12pt;
+  border-bottom: gray solid 1px;
+  padding: 5px 10px;
+
+}
+
+div.a-desc {
+  font-family: arial;
+  font-style: italic;
+  font-size: 10pt;
+  font-weight: normal;
+
+}
+
+/* span {float:left;} */
+span.v-icon {
+  flex: 0 0 70px;
+  -webkit-flex: 0 0 70px;
+}
+
+span.v-text {
+ flex: 0 100% 400px;
+ -webkit-flex: 0 100% 400px;
+
+
+}
+div.v-desc {
+  font-family: arial;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 8pt;
+
+}
+.tabbuton {
+  font-family: arial;
+  font-weight: bold;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  background-color: #3B89F6;
+}
+
+.tabbutoff {
+  font-family: arial;
+  font-weight: normal;
+  line-height: 50px;
+  text-align: center;
+  color: gray;
+  background-color: #0D4BA1;
+}
+
+.navigation {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 18pt;
+  line-height: 75px;
+  text-align: center;
+  background-color: blue;
+  color: white;
+
+}
