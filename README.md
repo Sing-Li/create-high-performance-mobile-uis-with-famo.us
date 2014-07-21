@@ -14,7 +14,7 @@ Discover the inspiration behind Famo.us and the vision for its future in an inte
 
 Read [Interview with Steve Newcomb, CEO and co-founder of Famo.us](http://www.ibm.com/developerworks/library/wa-famous/sidefile-interview.html)
 
-This code may be updated periodically.   Download the most current code distribution zip [from here]().
+This code may be updated periodically.   Download the most current code distribution zip [from here](https://github.com/Sing-Li/create-high-performance-mobile-uis-with-famo.us/archive/master.zip).
 
 
 
