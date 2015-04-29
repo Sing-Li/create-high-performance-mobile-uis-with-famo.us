@@ -1,5 +1,8 @@
-Background
+Learn Famo.us and create native-performance UI components in JavaScript
 ----------
+
+Does the browser always seem to get in your way when designing high performance mobile-compatible UIs?  Wouldn't it be great if you can leverage the graphic heardware acceleration on the PC or mobile device directly when crafting components and animations?
+
 With the Famo.us platform, mobile web UIs written in JavaScript can be as compelling as native-code implementations.
 
 ![Use Famo.us today to easily create mobile UIs.](http://www.ibm.com/developerworks/library/wa-famous/figure8.jpg)
